@@ -1,6 +1,6 @@
 <h1 align="left">Hello</h1>
 
-**I'm a systems programmer and CPU architect.<br>**
+i do systems programming and cpudev and maybe compilers aswell<br>
 I privated my old repos and the current project im working on is closed-source
 so that's why there ain't alotta repos visible
 <br><br>
